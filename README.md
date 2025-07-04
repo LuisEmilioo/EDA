@@ -1,5 +1,5 @@
 # EDA
-##Lanzamiento indie: temporada, plataforma y región ideal
+## Lanzamiento indie: temporada, plataforma y región ideal
 
 ---
 
