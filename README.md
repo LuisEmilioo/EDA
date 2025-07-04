@@ -13,11 +13,19 @@ El objetivo es ayudar a desarrolladores independientes a tomar decisiones estrat
 
 ## Hipótesis principal
 
-Los videojuegos indie tienen un mejor desempeño inicial (visibilidad o éxito en reseñas) cuando se lanzan en verano en plataformas como Steam especialmente si:
+Los videojuegos indie tienen un mejor desempeño inicial cuando se lanzan en verano.
 
-- Son juegos de aventura en el caso de Europa, o  
-- Son RPGs en el caso de Asia.
+---
 
+### HIPÓTESIS SECUNDARIA
+
+Tienen un mejor desempeño especialmente si:
+
+- Son juegos de aventura (en Europa) 
+- Son RPGs (en Asia)
+
+
+Esto sugiere que tanto la temporada, como la región de origen y el género del juego influyen en el impacto de un lanzamiento.
 ---
 
 ## Estructura del proyecto: por definir
